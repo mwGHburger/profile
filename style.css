@@ -23,7 +23,7 @@ p {
   margin-bottom: 20px;
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 3000px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
     width: 700px;
